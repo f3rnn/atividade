@@ -14,18 +14,18 @@ retangulo/
 ├── src/
 │   └── main/
 │       └── java/
-|          └── br/
-|            └── com/
-|              └── example/
+│          └── br/
+│            └── com/
+│              └── example/
 │                 └── Circulo.java
-|                 └── Quadrado.java
-|                 └── Retangulo.java
-|                 └── Triangulo.java
+│                 └── Quadrado.java
+│                 └── Retangulo.java
+│                 └── Triangulo.java
 ├── test/
 │   └── java/
-|       └── CirculoTest.java
-|       └── QuadradoTest.java
+│       └── CirculoTest.java
+│       └── QuadradoTest.java
 │       └── RetanguloTest.java
-|       └── TrianguloTest.java
+│       └── TrianguloTest.java
 ├── README.md
 └── pom.xml
